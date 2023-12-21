@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pawekz
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning C and Java
+- 🌱 I’m currently learning C and Java (certified noob)
 
 <!---
 pawekz/pawekz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
